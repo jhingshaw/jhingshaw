@@ -33,7 +33,6 @@
          '|||'          Status   : Building High-Performance Tools 🚀
 ```
 
----
 
 ### 🛠️ Tech Stack & Cyber Arsenal
 
@@ -68,8 +67,6 @@
   </tr>
 </table>
 
----
-
 ### 📂 Directory & Core Architecture
 
 ```text
@@ -86,7 +83,6 @@ root@jhingshaw:~# tree -L 2 --dirsfirst
     └── Direct File Access & API Integrations
 ```
 
----
 
 ### 📊 System Analytics & Activity Metrics
 
@@ -103,7 +99,6 @@ root@jhingshaw:~# tree -L 2 --dirsfirst
 
 </div>
 
----
 
 <div align="center">
 
